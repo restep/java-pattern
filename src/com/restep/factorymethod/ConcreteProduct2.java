@@ -1,4 +1,4 @@
-package com.pattern.factorymethod;
+package com.restep.factorymethod;
 
 /**
  * @author restep

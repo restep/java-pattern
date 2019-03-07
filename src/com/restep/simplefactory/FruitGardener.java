@@ -1,4 +1,4 @@
-package com.pattern.simplefactory;
+package com.restep.simplefactory;
 
 /**
  * 园丁
